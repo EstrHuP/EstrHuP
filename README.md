@@ -23,8 +23,10 @@ I am iOS Developer from Spain.
 
 ### :boom: My Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstrHuP&show_icons=true&theme=material-palenight&count_private=true" width="528"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstrHuP&show_icons=true&theme=material-palenight&count_private=true" width="500"/>
 </a>
+</br>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstrHuP&theme=material-palenight" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstrHuP&theme=material-palenight" />
 </a>
