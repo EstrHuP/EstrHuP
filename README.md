@@ -17,7 +17,7 @@ I am iOS Developer from Spain.
 ### :hammer_and_wrench: Languages and Tools:
 <p align="leading">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,swift,firebase,github" />
+    <img src="https://skillicons.dev/icons?i=swift,cs,firebase,git,github,figma,postman,visualstudio,vscode" />
   </a>
 </p>
 
